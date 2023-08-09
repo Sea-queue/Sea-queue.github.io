@@ -6710,7 +6710,7 @@ footer .btn {
     }
     .social-area.pull-right {
         /* float: none !important; */
-        margin: 0 15px, 10px 0;
+        margin: 0 15px 10px 0;
     }
     .form-control+.form-control-feedback {
         margin-top: -8px;
