@@ -4327,6 +4327,7 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
 
 .navbar .navbar-toggle {
     border: 0;
+    padding-right: 10%;
 }
 
 .navbar .navbar-toggle:hover,
@@ -4811,7 +4812,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 
 .navbar.navbar-transparent .logo-container .brand {
-    color: #FFFFFF;
+    color: black;
     margin-top: 20px;
 }
 
